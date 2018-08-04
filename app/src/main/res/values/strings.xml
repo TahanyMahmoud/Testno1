@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flip</string>
+    <string name="title_activity_saved_info">savedInfoActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
